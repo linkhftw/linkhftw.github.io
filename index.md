@@ -15,7 +15,7 @@
 ### Mar 12, 2020
 #### Pixel Dad!
 
-![pixelDad](img/pixeldad.png|width=100)
+![pixelDad](img/pixeldad.png)
 
 
 ### Mar 11, 2020
