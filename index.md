@@ -15,7 +15,7 @@
 #### Mar 12, 2020
 ### Pixel Dad!
 
-![pixelDad](img/pixeldad.png | width=100)
+![pixelDad](img/pixeldad.png|width=100)
 
 
 #### Mar 11, 2020
@@ -25,22 +25,26 @@
 
 #### Feb 8, 2020
 ### Candle Haiku
-_Soothing candle light.
+```
+Soothing candle light.
 
 Relax and take a moment
 
-To think about life._
-
+To think about life.
+```
 ![candle](img/candle.jpeg)
 
 
 #### Feb 5, 2020
 ### Dorito Haiku
-_Triangle. Yummy.
+
+```
+Triangle. Yummy.
 
 Seriously, so good, right?
 
-They’re so awesome. Cheese._
+They’re so awesome. Cheese.
+```
 
 
 #### Jan 29, 2020
@@ -85,16 +89,15 @@ Hope you get fed to a parrot.
 END
 ```
 
-Haiku! If you love my writing, please subscribe! I always love writing and it’s always so fun to make content for my folks! You can give me suggestions in the comments on what to do next! I’m always happy to keep making content and poems! Bye-ku!
-
-
 #### Jan 29, 2020
 ### Burger Haiku
-_Juicy. Delicious.
+```
+Juicy. Delicious.
 
 I need more hamburgers now.
 
-Fries on the side. Yum_
+Fries on the side. Yum
+```
 
 
 #### Jan 29, 2020
