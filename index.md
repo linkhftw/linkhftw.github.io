@@ -6,22 +6,27 @@
 [Ballora Gallery #sisterlocation](https://scratch.mit.edu/projects/441926082/embed)
 {% include scratch.html id="441926082" %}
 
-
+---
 
 ### Mar 31, 2020 - Made with Scratch! 
 
 See the whole thing here: 
 
 [Interview With a Ghost](https://scratch.mit.edu/projects/381384076/)
+{% include scratch.html id="381384076" %}
 
+---
 
 ### Mar 12, 2020 - Pixel Dad!
 
 ![pixelDad](img/pixeldad.png)
 
+---
 
 ### Mar 11, 2020
 [How to draw Video Game Duck](https://docs.google.com/presentation/d/e/2PACX-1vStErkQqHgAFW8_kSAbKELhakW0YfRjUxbgHYfJFuhDmYoneAc-Em0PrAg_Eq9mBYKEkzfM6pkY5HH-/embed?start=false&loop=true&delayms=3000&slide=id.g7e7995037d_0_5) 
+
+---
 
 ### Feb 8, 2020 -  Candle Haiku
 ```
@@ -33,6 +38,7 @@ To think about life.
 ```
 ![candle](img/candle.jpeg)
 
+---
 
 ### Feb 5, 2020 - Dorito Haiku
 
@@ -43,7 +49,7 @@ Seriously, so good, right?
 
 They’re so awesome. Cheese.
 ```
-
+---
 
 ### Jan 29, 2020 - Fruits vs Veggies Rap
 ```
@@ -86,6 +92,8 @@ Hope you get fed to a parrot.
 END
 ```
 
+---
+
 ### Jan 29, 2020 - Burger Haiku
 ```
 Juicy. Delicious.
@@ -95,6 +103,7 @@ I need more hamburgers now.
 Fries on the side. Yum
 ```
 
+---
 
 ### Jan 29, 2020 - Veggie Rap ft. The Healthy Crew 
 ```
