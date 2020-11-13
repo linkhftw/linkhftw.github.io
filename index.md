@@ -1,30 +1,30 @@
-# Welcome
+# Lincoln's Page
 
 ## Latest
-#### Oct 28, 2020
+### Oct 28, 2020
 
 [Ballora Gallery #sisterlocation](https://scratch.mit.edu/projects/441926082/embed)
 
 
-#### Mar 31, 2020
-### Made with Scratch! See the whole thing here: 
+### Mar 31, 2020
+#### Made with Scratch! See the whole thing here: 
 
 [Interview With a Ghost](https://scratch.mit.edu/projects/381384076/)
 
 
-#### Mar 12, 2020
-### Pixel Dad!
+### Mar 12, 2020
+#### Pixel Dad!
 
 ![pixelDad](img/pixeldad.png|width=100)
 
 
-#### Mar 11, 2020
-### How to draw Video Game Duck
+### Mar 11, 2020
+#### How to draw Video Game Duck
 
 [Video Game Duck](https://docs.google.com/presentation/d/e/2PACX-1vStErkQqHgAFW8_kSAbKELhakW0YfRjUxbgHYfJFuhDmYoneAc-Em0PrAg_Eq9mBYKEkzfM6pkY5HH-/embed?start=false&loop=true&delayms=3000&slide=id.g7e7995037d_0_5) 
 
-#### Feb 8, 2020
-### Candle Haiku
+### Feb 8, 2020
+#### Candle Haiku
 ```
 Soothing candle light.
 
@@ -35,8 +35,8 @@ To think about life.
 ![candle](img/candle.jpeg)
 
 
-#### Feb 5, 2020
-### Dorito Haiku
+### Feb 5, 2020
+#### Dorito Haiku
 
 ```
 Triangle. Yummy.
@@ -47,8 +47,8 @@ They’re so awesome. Cheese.
 ```
 
 
-#### Jan 29, 2020
-### Fruits vs Veggies Rap
+### Jan 29, 2020
+#### Fruits vs Veggies Rap
 ```
 Fruits:
 You grow from a plant
@@ -89,8 +89,8 @@ Hope you get fed to a parrot.
 END
 ```
 
-#### Jan 29, 2020
-### Burger Haiku
+### Jan 29, 2020
+#### Burger Haiku
 ```
 Juicy. Delicious.
 
@@ -100,8 +100,8 @@ Fries on the side. Yum
 ```
 
 
-#### Jan 29, 2020
-### Veggie Rap ft. The Healthy Crew 
+### Jan 29, 2020
+#### Veggie Rap ft. The Healthy Crew 
 ```
 So we back up in the alleyway,
 Eating some fruit.
@@ -130,4 +130,3 @@ Apples won’t do.
 That’s why we’re healthy!
 THE HEALTHY CREW!!”
 ```
-
