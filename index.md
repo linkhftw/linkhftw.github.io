@@ -4,6 +4,8 @@
 ### Oct 28, 2020
 
 [Ballora Gallery #sisterlocation](https://scratch.mit.edu/projects/441926082/embed)
+{% include scratch.html id="441926082" %}
+
 
 
 ### Mar 31, 2020 - Made with Scratch! 
