@@ -1,6 +1,22 @@
 # Lincoln's Page
 
 ## Latest
+### Jan 21, 2021
+
+[those eggs aren't dippy](https://scratch.mit.edu/projects/476589816/embed)
+{% include scratch.html id="476589816" %}
+
+---
+
+
+### Jan 20, 2021
+
+[there's something happening](https://scratch.mit.edu/projects/477180725/embed)
+{% include scratch.html id="477180725" %}
+
+---
+
+
 ### Oct 28, 2020
 
 [Ballora Gallery #sisterlocation](https://scratch.mit.edu/projects/441926082/embed)
