@@ -1,6 +1,12 @@
 # Lincoln's Page
 
 ## Latest
+### Feb 24, 2021
+[Monochrome](https://scratch.mit.edu/projects/492610333/embed)
+{% include scratch.html id="492610333" %}
+
+---
+
 ### Feb 11, 2021
 [PBJ](https://scratch.mit.edu/projects/486287378/embed)
 {% include scratch.html id="486287378" %}
