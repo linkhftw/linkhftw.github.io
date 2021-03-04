@@ -1,6 +1,12 @@
 # Lincoln's Page
 
 ## Latest
+### Mar 03, 2021
+[Friday Night Funkin Thing](https://scratch.mit.edu/projects/495552726/embed)
+{% include scratch.html id="495552726" %}
+
+---
+
 ### Feb 24, 2021
 [Monochrome](https://scratch.mit.edu/projects/492610333/embed)
 {% include scratch.html id="492610333" %}
