@@ -1,6 +1,12 @@
 # Lincoln's Page
 
 ## Latest
+### Mar 08, 2021
+[Enrico Pucci's C-MOON](https://scratch.mit.edu/projects/498302047/embed)
+{% include scratch.html id="498302047" %}
+
+---
+
 ### Mar 03, 2021
 [Friday Night Funkin Thing](https://scratch.mit.edu/projects/495552726/embed)
 {% include scratch.html id="495552726" %}
