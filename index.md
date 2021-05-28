@@ -3,7 +3,7 @@
 ## Latest
 
 ### May 28, 2021
-![zergling moment](img/zergling.png)
+![zergling moment](img/zerling.png)
 
 
 ### Oct 28, 2020
