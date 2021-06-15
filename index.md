@@ -1,6 +1,10 @@
 # Lincoln's Page
 
 ## Latest
+### June 15, 2021
+[lasertag](/lasertag.m4a)
+[NUKEZ](/NUKEZ.m4a)
+[menumusic](/menumusic.m4a)
 
 ### May 28, 2021
 ![zergling moment](img/zerling.png)
