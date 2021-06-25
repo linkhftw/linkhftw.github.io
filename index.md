@@ -3,7 +3,7 @@
 ## Latest
 ### June 15, 2021
 <script>
-var audio = new Audio("https://github.com/linkhftw/linkhftw.github.io/blob/21a4f5a3ce6eaf535768ca53cc4bf7bf994b9958/NUKEZ.m4a")
+var audio = new Audio("https://raw.githubusercontent.com/linkhftw/linkhftw.github.io/main/NUKEZ.m4a")
 audio.play()
 </script>
 
