@@ -4,62 +4,62 @@
 ### June 28, 2021
 NEW MUSIC! 
 
-[mafrfi (Make a f-ing Run for it!)](/mafrfi.m4a)
+[mafrfi (Make a f-ing Run for it!)](/sounds/mafrfi.m4a)
 <audio controls>
-<source src="./mafrfi.m4a" type="audio/mpeg">
+<source src="./sounds/mafrfi.m4a" type="audio/mpeg">
 </audio>
 
-[Radiation](/Radiation.m4a)
+[Radiation](/sounds/Radiation.m4a)
 <audio controls>
-<source src="./Radiation.m4a" type="audio/mpeg">
+<source src="./sounds/Radiation.m4a" type="audio/mpeg">
 </audio>
 
-[KAB00M](/KAB00M.m4a)
+[KAB00M](/sounds/KAB00M.m4a)
 <audio controls>
-<source src="./KAB00M.m4a" type="audio/mpeg">
+<source src="./sounds/KAB00M.m4a" type="audio/mpeg">
 </audio>
 
-[DEAD_CLOWN](/DEAD_CLOWN.m4a)
+[DEAD_CLOWN](/sounds/DEAD_CLOWN.m4a)
 <audio controls>
-<source src="./DEAD_CLOWN.m4a" type="audio/mpeg">
+<source src="./sounds/DEAD_CLOWN.m4a" type="audio/mpeg">
 </audio>
 
-[Latte](/Latte.m4a)
+[Latte](/sounds/Latte.m4a)
 <audio controls>
-<source src="./Latte.m4a" type="audio/mpeg">
+<source src="./sounds/Latte.m4a" type="audio/mpeg">
 </audio>
 
-[love_at_first_sight](/love_at_first_sight.m4a)
+[love_at_first_sight](/sounds/love_at_first_sight.m4a)
 <audio controls>
-<source src="./love_at_first_sight.m4a" type="audio/mpeg">
+<source src="./sounds/love_at_first_sight.m4a" type="audio/mpeg">
 </audio>
 
-[POWER_WEAPON](/POWER_WEAPON.m4a)
+[POWER_WEAPON](/sounds/POWER_WEAPON.m4a)
 <audio controls>
-<source src="./POWER_WEAPON.m4a" type="audio/mpeg">
+<source src="./sounds/POWER_WEAPON.m4a" type="audio/mpeg">
 </audio>
 
-[RELOAD](/RELOAD.m4a)
+[RELOAD](/sounds/RELOAD.m4a)
 <audio controls>
-<source src="./RELOAD.m4a" type="audio/mpeg">
+<source src="./sounds/RELOAD.m4a" type="audio/mpeg">
 </audio>
 
 
 ### June 15, 2021
-[NUKEZ](/NUKEZ.m4a)
+[NUKEZ](/sounds/NUKEZ.m4a)
 <audio controls>
-<source src="./NUKEZ.m4a" type="audio/mpeg">
+<source src="./sounds/NUKEZ.m4a" type="audio/mpeg">
 </audio>
 
-[lasertag](/lasertag.m4a)
+[lasertag](/sounds/lasertag.m4a)
 <audio controls>
-<source src="./lasertag.m4a" type="audio/mpeg">
+<source src="./sounds/lasertag.m4a" type="audio/mpeg">
 </audio>
 
 
-[menumusic](/menumusic.m4a)
+[menumusic](/sounds/menumusic.m4a)
 <audio controls>
-<source src="./menumusic.m4a" type="audio/mpeg">
+<source src="./sounds/menumusic.m4a" type="audio/mpeg">
 </audio>
   
 ### May 28, 2021
