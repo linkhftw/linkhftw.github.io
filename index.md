@@ -4,7 +4,7 @@
 ### June 15, 2021
 
 <audio controls>
-<src="NUKEZ.m4a" type="audio/mpeg">
+<source="./NUKEZ.m4a" type="audio/mpeg">
 </audio>
 
 [lasertag](/lasertag.m4a)
