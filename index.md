@@ -2,17 +2,22 @@
 
 ## Latest
 ### June 15, 2021
-
+[NUKEZ](/NUKEZ.m4a)
 <audio controls>
-<src="./NUKEZ.m4a" type="audio/mpeg">
+<source src="./NUKEZ.m4a" type="audio/mpeg">
 </audio>
 
 [lasertag](/lasertag.m4a)
+<audio controls>
+<source src="./lasertag.m4a" type="audio/mpeg">
+</audio>
 
-[NUKEZ](/NUKEZ.m4a)
 
 [menumusic](/menumusic.m4a)
-
+<audio controls>
+<source src="./menumusic.m4a" type="audio/mpeg">
+</audio>
+  
 ### May 28, 2021
 ![zergling moment](img/zerling.png)
 ![zealot](img/zealot.png)
