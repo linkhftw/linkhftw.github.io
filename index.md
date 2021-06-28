@@ -3,8 +3,8 @@
 ## Latest
 ### June 15, 2021
 
-<audio controls autoplay>
-<source="https://raw.githubusercontent.com/linkhftw/linkhftw.github.io/main/NUKEZ.m4a" type="audio/mpeg">
+<audio controls>
+<src="https://raw.githubusercontent.com/linkhftw/linkhftw.github.io/main/NUKEZ.m4a" type="audio/mpeg">
 </audio>
 
 [lasertag](/lasertag.m4a)
