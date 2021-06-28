@@ -1,6 +1,50 @@
 # Lincoln's Page
 
 ## Latest
+### June 28, 2021
+NEW MUSIC! 
+
+[mafrfi (Make a f-ing Run for it!)](/mafrfi.m4a)
+<audio controls>
+<source src="./mafrfi.m4a" type="audio/mpeg">
+</audio>
+
+[Radiation](/Radiation.m4a)
+<audio controls>
+<source src="./Radiation.m4a" type="audio/mpeg">
+</audio>
+
+[KAB00M](/KAB00M.m4a)
+<audio controls>
+<source src="./KAB00M.m4a" type="audio/mpeg">
+</audio>
+
+[DEAD_CLOWN](/DEAD_CLOWN.m4a)
+<audio controls>
+<source src="./DEAD_CLOWN.m4a" type="audio/mpeg">
+</audio>
+
+[Latte](/Latte.m4a)
+<audio controls>
+<source src="./Latte.m4a" type="audio/mpeg">
+</audio>
+
+[love_at_first_sight](/love_at_first_sight.m4a)
+<audio controls>
+<source src="./love_at_first_sight.m4a" type="audio/mpeg">
+</audio>
+
+[POWER_WEAPON](/POWER_WEAPON.m4a)
+<audio controls>
+<source src="./POWER_WEAPON.m4a" type="audio/mpeg">
+</audio>
+
+[RELOAD](/RELOAD.m4a)
+<audio controls>
+<source src="./RELOAD.m4a" type="audio/mpeg">
+</audio>
+
+
 ### June 15, 2021
 [NUKEZ](/NUKEZ.m4a)
 <audio controls>
