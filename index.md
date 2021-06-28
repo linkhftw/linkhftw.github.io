@@ -2,10 +2,10 @@
 
 ## Latest
 ### June 15, 2021
-<script>
-var audio = new Audio("https://raw.githubusercontent.com/linkhftw/linkhftw.github.io/main/NUKEZ.m4a")
-audio.play()
-</script>
+
+<audio controls autoplay>
+<source="https://raw.githubusercontent.com/linkhftw/linkhftw.github.io/main/NUKEZ.m4a" type="audio/mpeg">
+</audio>
 
 [lasertag](/lasertag.m4a)
 
