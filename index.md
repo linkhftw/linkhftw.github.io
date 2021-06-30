@@ -1,6 +1,19 @@
 # Lincoln's Page
 
 ## Latest
+### June 30, 2021
+hi i guess lol
+[POWER_WEAPON](/sounds/POWER_WEAPON.m4a)
+<audio controls>
+<source src="./sounds/POWER_WEAPON.m4a" type="audio/mpeg">
+</audio>
+
+[POWER_WEAPON](/sounds/POWER_WEAPON.m4a)
+<audio controls>
+<source src="./sounds/POWER_WEAPON.m4a" type="audio/mpeg">
+</audio>
+
+
 ### June 28, 2021
 NEW MUSIC! 
 
