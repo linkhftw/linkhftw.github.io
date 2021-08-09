@@ -1,6 +1,44 @@
 # Lincoln's Page
 
 ## Latest
+### Aug 9, 2021
+New music
+
+[Containment_Breach-Rage_Comet](/sounds/./Containment_Breach-Rage_Comet.m4a)
+<audio controls>
+  <source src"./sounds/Containment_Breach-Rage_Comet.m4a" type="audio/mpeg">
+</audio>
+
+[Chainsaw-Rage_Comet](/sounds/Chainsaw-Rage_Comet.m4a)
+<audio controls>
+  <source src"./sounds/Chainsaw-Rage_Comet.m4a" type="audio/mpeg">
+</audio>
+
+[Galaxies_Expanding-Rage_Comet](/sounds/Galaxies_Expanding-Rage_Comet.m4a)
+<audio controls>
+  <source src"./sounds/Galaxies_Expanding-Rage_Comet.m4a" type="audio/mpeg">
+</audio>
+
+[Super_Spy-Rage_Comet](/sounds/Super_Spy-Rage_Comet.m4a)
+<audio controls>
+  <source src"./sounds/Super_Spy-Rage_Comet.m4a" type="audio/mpeg">
+</audio>
+
+[Surfin_With_a_Shotgun-Rage_Comet](/sounds/Surfin_With_a_Shotgun-Rage_Comet.m4a)
+<audio controls>
+  <source src"./sounds/Surfin_With_a_Shotgun-Rage_Comet.m4a" type="audio/mpeg">
+</audio>
+
+[ALIEN_LIFEFORM_SPOTTED-Rage_Comet](/sounds/ALIEN_LIFEFORM_SPOTTED-Rage_Comet.m4a)
+<audio controls>
+  <source src"./sounds/ALIEN_LIFEFORM_SPOTTED-Rage_Comet.m4a" type="audio/mpeg">
+</audio>
+
+[gravityspacetimeandstuff-Rage_Comet](/sounds/gravityspacetimeandstuff-Rage_Comet.m4a)
+<audio controls>
+  <source src"./sounds/gravityspacetimeandstuff-Rage_Comet.m4a" type="audio/mpeg">
+</audio>
+
 ### June 30, 2021
 hi i guess lol
 
