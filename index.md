@@ -1,6 +1,14 @@
 # Lincoln's Page
 
 ## Latest
+### Sept 19, 2021
+New music
+
+[Godlike-Rage_Comet](/sounds/./Rage_Comet-Godlike.m4a)
+<audio controls>
+  <source src="./sounds/Rage_Comet-Godlike.m4a" type="audio/mpeg">
+</audio>
+
 ### Aug 9, 2021
 New music
 
