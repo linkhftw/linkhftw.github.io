@@ -1,5 +1,3 @@
-# RAGE-COMET
-
 ## Latest
 ### Sept 19, 2021
 New music
