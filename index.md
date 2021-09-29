@@ -1,4 +1,4 @@
-# Lincoln's Page
+# RAGE-COMET
 
 ## Latest
 ### Sept 19, 2021
@@ -121,18 +121,3 @@ NEW MUSIC!
 <audio controls>
 <source src="./sounds/menumusic.m4a" type="audio/mpeg">
 </audio>
-  
-### May 28, 2021
-![zergling moment](img/zerling.png)
-![zealot](img/zealot.png)
-
-
-
-### Mar 12, 2020
-#### Pixel Dad!
-
-![pixelDad](img/pixeldad.png)
-
-
-
-
