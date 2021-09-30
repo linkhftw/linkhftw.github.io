@@ -1,4 +1,11 @@
 ## Latest
+### Sept 30, 2021
+
+[Father, it's a preferred term called the "Amen Break"](/sounds/./father_its_a_preferred_term_called_the_Amen_Break-Rage_Comet.m4a)
+<audio controls>
+  <source src="./sounds/father_its_a_preferred_term_called_the_Amen_Break-Rage_Comet.m4a" type="audio/mpeg">
+</audio>
+
 ### Sept 19, 2021
 New music
 
