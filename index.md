@@ -1,3 +1,9 @@
+### Nov 10, 2021
+[Ultima](/sounds/./Rage_Comet-Ultima.mp3)
+<audio controls>
+  <source src="./sounds/Rage_Comet-Ultima.mp3" type="audio/mpeg">
+</audio>
+
 ### Oct 11, 2021
 
 [Siren](/sounds/./Siren-Rage_Comet.mp3)
