@@ -1,4 +1,6 @@
 ### Nov 10, 2021
+laughs in fl studio 20 trial version
+
 [Ultima](/sounds/./Rage_Comet-Ultima.mp3)
 <audio controls>
   <source src="./sounds/Rage_Comet-Ultima.mp3" type="audio/mpeg">
@@ -11,7 +13,7 @@
   <source src="./sounds/Siren-Rage_Comet.mp3" type="audio/mpeg">
 </audio>
 
-[21st Humor Century (13+)](/sounds/./21st_humor_century-Rage_Comet.mp3)
+[21st Humor Century (includes swearing, soccer moms beware)](/sounds/./21st_humor_century-Rage_Comet.mp3)
 <audio controls>
   <source src="./sounds/21st_humor_century-Rage_Comet.mp3" type="audio/mpeg">
 </audio>
@@ -25,7 +27,7 @@
 </audio>
 
 ### Sept 19, 2021
-New music
+ay boys we vibin
 
 [Godlike-Rage_Comet](/sounds/./Rage_Comet-Godlike.m4a)
 <audio controls>
@@ -33,7 +35,7 @@ New music
 </audio>
 
 ### Aug 9, 2021
-New music
+is it outer space day yet orrrr
 
 [Galaxies_Expanding-Rage_Comet](/sounds/Galaxies_Expanding-Rage_Comet.m4a)
 <audio controls>
@@ -46,7 +48,7 @@ New music
 </audio>
 
 ### June 30, 2021
-hi i guess lol
+monke
 
 [Monke!](/sounds/monke.m4a)
 <audio controls>
@@ -56,3 +58,4 @@ hi i guess lol
 
 ### June 28, 2021
 hello everyone my name's rage comet, aka, joe "yuri" mcdeez, and welcome to my website
+i regret this
