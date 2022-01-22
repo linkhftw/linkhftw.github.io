@@ -6,6 +6,11 @@ we be vibin though
   <source src="./sounds/LeavingMyOvenOnSoMyCookiesEndUpLikePiecesOfCharcoal.mp3" type="audio/mpeg">
 </audio>
 
+[ULTRAPOISON](/sounds/./ULTRAPOISON.mp3)
+<audio controls>
+  <source src="./sounds/ULTRAPOISON.mp3" type="audio/mpeg">
+</audio>
+
 ### Nov 10, 2021
 laughs in fl studio 20 trial version
 
