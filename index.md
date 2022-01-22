@@ -1,6 +1,14 @@
 ### Nov 10, 2021
 laughs in fl studio 20 trial version
 
+[LeavingMyOvenOnSoMyCookiesEndUpLikePiecesOfCharcoal](/sounds/./LeavingMyOvenOnSoMyCookiesEndUpLikePiecesOfCharcoal.mp3)
+<audio controls>
+  <source src="./sounds/Rage_Comet-Ultima.mp3" type="audio/mpeg">
+</audio>
+
+### Nov 10, 2021
+laughs in fl studio 20 trial version
+
 [Ultima](/sounds/./Rage_Comet-Ultima.mp3)
 <audio controls>
   <source src="./sounds/Rage_Comet-Ultima.mp3" type="audio/mpeg">
