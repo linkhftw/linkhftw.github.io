@@ -26,12 +26,6 @@ laughs in fl studio 20 trial version
   <source src="./sounds/Siren-Rage_Comet.mp3" type="audio/mpeg">
 </audio>
 
-[21st Humor Century (includes swearing, soccer moms beware)](/sounds/./21st_humor_century-Rage_Comet.mp3)
-<audio controls>
-  <source src="./sounds/21st_humor_century-Rage_Comet.mp3" type="audio/mpeg">
-</audio>
-
-
 ### Sept 30, 2021
 
 [Father, it's a preferred term called the "Amen Break"](/sounds/./father_its_a_preferred_term_called_the_Amen_Break-Rage_Comet.m4a)
