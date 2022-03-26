@@ -1,36 +1,14 @@
+### WELCOME
+hey kids
+are you looking for cool, addicting music?
+well you've come to the wrong place :D
+
 ### January 22, 2022
 we be vibin though
 
 [LeavingMyOvenOnSoMyCookiesEndUpLikePiecesOfCharcoal](/sounds/./LeavingMyOvenOnSoMyCookiesEndUpLikePiecesOfCharcoal.mp3)
 <audio controls>
   <source src="./sounds/LeavingMyOvenOnSoMyCookiesEndUpLikePiecesOfCharcoal.mp3" type="audio/mpeg">
-</audio>
-
-[ULTRAPOISON](/sounds/./ULTRAPOISON.mp3)
-<audio controls>
-  <source src="./sounds/ULTRAPOISON.mp3" type="audio/mpeg">
-</audio>
-
-### Nov 10, 2021
-laughs in fl studio 20 trial version
-
-[Ultima](/sounds/./Rage_Comet-Ultima.mp3)
-<audio controls>
-  <source src="./sounds/Rage_Comet-Ultima.mp3" type="audio/mpeg">
-</audio>
-
-### Oct 11, 2021
-
-[Siren](/sounds/./Siren-Rage_Comet.mp3)
-<audio controls>
-  <source src="./sounds/Siren-Rage_Comet.mp3" type="audio/mpeg">
-</audio>
-
-### Sept 30, 2021
-
-[Father, it's a preferred term called the "Amen Break"](/sounds/./father_its_a_preferred_term_called_the_Amen_Break-Rage_Comet.m4a)
-<audio controls>
-  <source src="./sounds/father_its_a_preferred_term_called_the_Amen_Break-Rage_Comet.m4a" type="audio/mpeg">
 </audio>
 
 ### Sept 19, 2021
@@ -53,16 +31,3 @@ is it outer space day yet orrrr
 <audio controls>
   <source src="./sounds/gravityspacetimeandstuff-Rage_Comet.m4a" type="audio/mpeg">
 </audio>
-
-### June 30, 2021
-monke
-
-[Monke!](/sounds/monke.m4a)
-<audio controls>
-<source src="./sounds/monke.m4a" type="audio/mpeg">
-</audio>
-
-
-### June 28, 2021
-hello everyone my name's rage comet, aka, joe "yuri" mcdeez, and welcome to my website
-i regret this
